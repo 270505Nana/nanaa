@@ -12,8 +12,6 @@ Right now, I am also taking on the role of Front End Developer for two major ong
 
 ## Current framework & lang 
 ![Skills](https://skillicons.dev/icons?i=html,css,js,python,java,react,laravel,R)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=270505Nana&layout=compact&theme=radical)
 
 ## 🔥 Streak
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=270505Nana&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=270505Nana&theme=tokyonight)
