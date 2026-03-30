@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=24&center=true&vCenter=true&width=600&lines=Hi👋+I'm+Prajna+Paramitha+Wardhany;Informatics+Engineering+Student;Machine+Learning+Enthusiast;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 ## Hi👋🏻 I'm Prajna Paramitha Wardhany
 
 I am an Software Engineering student specializing in web development with the Laravel framework. Currently, I am expanding into mobile solutions by building “KoneksiBilitas” (using Flutter and Laravel) an app designed to connect individuals with disabilities to employment opportunities.
@@ -10,3 +11,9 @@ Right now, I am also taking on the role of Front End Developer for two major ong
 - Love building new projects that positively impact the environment 🌱
 
 ## Current framework & lang 
+![Skills](https://skillicons.dev/icons?i=html,css,js,python,java,react,laravel,R)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=270505Nana&layout=compact&theme=radical)
+
+## 🔥 Streak
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=270505Nana&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=270505Nana&theme=tokyonight)
